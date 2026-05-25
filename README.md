@@ -119,15 +119,15 @@ LAST KNOWN COORDINATES : INSIDE YOUR NETWORK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NOVASPLOIT&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41&icon_color=FF0040&ring_color=00FFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=novasploit666&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41&icon_color=FF0040&ring_color=00FFFF" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NOVASPLOIT&theme=dark&hide_border=true&background=0a0a0a&ring=00FF41&fire=FF0040&currStreakLabel=00FFFF&sideLabels=00FF41&dates=666666" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=novasploit666&theme=dark&hide_border=true&background=0a0a0a&ring=00FF41&fire=FF0040&currStreakLabel=00FFFF&sideLabels=00FF41&dates=666666" width="48%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOVASPLOIT&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novasploit666&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41" width="48%"/>
 
 </div>
 
@@ -137,7 +137,7 @@ LAST KNOWN COORDINATES : INSIDE YOUR NETWORK
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NOVASPLOIT&bg_color=0a0a0a&color=00FF41&line=FF0040&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=novasploit666&bg_color=0a0a0a&color=00FF41&line=FF0040&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -218,10 +218,10 @@ LAST KNOWN COORDINATES : INSIDE YOUR NETWORK
 
 <br>
 
-[![YouTube](https://img.shields.io/badge/NOVASPLOIT_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=⚫)](https://youtube.com/@NOVASPLOIT)
-[![Twitter](https://img.shields.io/badge/SIGNAL_BROADCAST-000000?style=for-the-badge&logo=x&logoColor=00FF41&label=)](https://twitter.com/NOVASPLOIT)
-[![Discord](https://img.shields.io/badge/CLASSIFIED_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=⬛)](https://discord.gg/NOVASPLOIT)
-[![Instagram](https://img.shields.io/badge/VISUAL_ARCHIVE-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=)](https://instagram.com/NOVASPLOIT)
+[![YouTube](https://img.shields.io/badge/NOVASPLOIT_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=⚫)](https://youtube.com/@novasploit666)
+[![Twitter](https://img.shields.io/badge/SIGNAL_BROADCAST-000000?style=for-the-badge&logo=x&logoColor=00FF41&label=)](https://twitter.com/novasploit666)
+[![Discord](https://img.shields.io/badge/CLASSIFIED_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=⬛)](https://discord.gg/novasploit666)
+[![Instagram](https://img.shields.io/badge/VISUAL_ARCHIVE-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=)](https://instagram.com/novasploit666)
 
 </div>
 
@@ -231,7 +231,7 @@ LAST KNOWN COORDINATES : INSIDE YOUR NETWORK
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=NOVASPLOIT&color=00FF41&style=for-the-badge&label=ENTITIES+LOGGED)
+![Visitor Count](https://komarev.com/ghpvc/?username=novasploit666&color=00FF41&style=for-the-badge&label=ENTITIES+LOGGED)
 
 </div>
 
@@ -241,7 +241,7 @@ LAST KNOWN COORDINATES : INSIDE YOUR NETWORK
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NOVASPLOIT&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=novasploit666&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
